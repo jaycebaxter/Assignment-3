@@ -1,0 +1,17 @@
+html {
+    font-family: sans-serif;
+  }
+  
+  /* Your CSS below here */
+  
+
+div {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 2px solid maroon;
+    background-color: red;
+    border-radius: 1em;
+    box-shadow: inset 5px white;
+
+}
